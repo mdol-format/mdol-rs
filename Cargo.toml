@@ -1,0 +1,11 @@
+[package]
+name = "serde_mdol"
+description = "A simple and easy to use object notation language based on markdown."
+homepage = "https://github.com/mdol-format"
+repository = "https://github.com/mdol-format/mdol-rs"
+version = "0.1.0"
+edition = "2024"
+license-file = "LICENSE.md"
+readme = "README.md"
+
+[dependencies]
